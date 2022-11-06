@@ -1,3 +1,8 @@
+# To Do
+- See if can `expo start` without tunnel
+- `yarn add` the tunnel dependency to dev dep
+- 
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
